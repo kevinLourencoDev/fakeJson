@@ -1,0 +1,11 @@
+
+{
+  "Products" : {
+    "1": {
+      "name": "Product 1", 
+      "category": "Category 1", 
+      "code": "Product 1 (Category 1)", 
+      "price": "100"
+    }
+  }
+}
